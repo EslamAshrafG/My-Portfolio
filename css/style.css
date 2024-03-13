@@ -131,7 +131,7 @@ even h2:after {
 }
 @media (max-width: 420px) {
   .return-to-top {
-    left: 80%;
+    left: 70%;
   }
 }
 .return-to-top:hover {
@@ -834,6 +834,7 @@ footer > p {
   position: relative;
   margin-top: 55px;
 }
+/*
 footer > p::before {
   content: "";
   display: block;
@@ -844,5 +845,5 @@ footer > p::before {
   width: 900px;
   height: 1px;
   background-color: var(--third-color);
-}
+}*/
 /* End footer */
